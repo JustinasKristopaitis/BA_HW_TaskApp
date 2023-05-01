@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "58FA33F9-15F8-4723-96AD-9C90B5EFC3FB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5FCA6BB-957A-4BA1-A550-7AD3C368B3BA"
+            shouldBeEnabled = "Yes"
+            condition = "userDetails.count == 0"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BA HW Task/Classes/Modules/UsersListView/UsersListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "loadUserDetails()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74BAAFCE-9C5B-4215-9FEE-1E8E85EF7C33"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BA HW Task/Classes/Services/DataFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "fetchUserDetails(userId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "74BAAFCE-9C5B-4215-9FEE-1E8E85EF7C33 - 21999201733ea88a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for BA_HW_Task.DataFetcher.fetchUserDetails(userId: Swift.Int) async throws -&gt; BA_HW_Task.UserDetails"
+                  moduleName = "BA HW Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/justinaskristopaitis/BA%20HW%20Task/BA%20HW%20Task/Classes/Services/DataFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "74BAAFCE-9C5B-4215-9FEE-1E8E85EF7C33 - 21999201733ea88a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for BA_HW_Task.DataFetcher.fetchUserDetails(userId: Swift.Int) async throws -&gt; BA_HW_Task.UserDetails"
+                  moduleName = "BA HW Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/justinaskristopaitis/BA%20HW%20Task/BA%20HW%20Task/Classes/Services/DataFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
